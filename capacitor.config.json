@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "My_people",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
